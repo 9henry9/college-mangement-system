@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="college_mangement_system.Computing" Collapsed="true">
+    <Position X="11.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAAAACAABAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>computing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="college_mangement_system.Department" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgIAAAAAAAAAAAAAgAIAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="college_mangement_system.Doctors" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="college_mangement_system.Human" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="5" />
+        <Point X="3.25" Y="4.625" />
+        <Point X="5.812" Y="4.625" />
+        <Point X="5.812" Y="3.941" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAQAAAA=</HashCode>
+      <FileName>Doctors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="college_mangement_system.Electercity" Collapsed="true">
+    <Position X="14.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAAAACAABAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Electercity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="college_mangement_system.Human">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQECAAAAQAAgAUAAgAAQAAAAAAgAAAACAEgACAA=</HashCode>
+      <FileName>Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="college_mangement_system.Program" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="college_mangement_system.Suff" Collapsed="true">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAACAAAAAACAAAAAQAAAA=</HashCode>
+      <FileName>Student Affairs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="college_mangement_system.Student" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="college_mangement_system.Stuff" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAACAAAAAACAAAAAQAAAA=</HashCode>
+      <FileName>Stuff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
